@@ -11,6 +11,9 @@ public class Main {
 		aceaccount.deposit(500.00);
 		aceaccount.withdraw(2000.00);
 		aceaccount.withdraw(500.00);
+		
+		Account okay = new Account("0505", 1000.00, "Annie De Leon");
+		
 	}
 
 }
